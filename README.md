@@ -23,7 +23,7 @@ The `Ollama-Client` is a **React Native** application designed to interact with 
   - List of models.
   - Button to navigate to the "Add/Delete Models" feature (currently a placeholder).
 - **Screenshot:**
-    ![List of Models](./screenshots/List_Of_Models.jpg)
+    ![List of Models](./screenshots/List_Of_Models.jpg){: width="40%"}
 
 ### **2. Chat Screen**
 - **Description:** Enables users to have text-based conversations with the selected model.
@@ -32,7 +32,7 @@ The `Ollama-Client` is a **React Native** application designed to interact with 
   - Input field for user messages.
   - Send button to submit messages.
 - **Screenshot:**
-    ![Chat Screen](./screenshots/ChatScreen.jpg)
+    ![Chat Screen](./screenshots/ChatScreen.jpg){: width="40%"}
 
 ### **3. Settings Screen**
 - **Description:** Allows users to configure the server **IP address** that the application communicates with.
@@ -40,14 +40,14 @@ The `Ollama-Client` is a **React Native** application designed to interact with 
     - Input field to enter the server IP.
     - Save button to update the server IP.
 - **Screenshot:**
-    ![Server IP Configuration](./screenshots/Server_IP.jpg)
+    ![Server IP Configuration](./screenshots/Server_IP.jpg){: width="40%"}
 
 ### **4. Model Management Screen**
 - **Description:** Allows users to add or delete models from the server.
 - **Components:**
     - List of models with options to add or delete.
 - **Screenshot:**
-    ![Model Management](./screenshots/Model_Managment.jpg)
+    ![Model Management](./screenshots/Model_Managment.jpg){: width="40%"}
 
 ---
 
