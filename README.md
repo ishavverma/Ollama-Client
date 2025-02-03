@@ -1,4 +1,6 @@
-# **React Native Application: ollama_react_native_app**
+# **React Native Application: Ollama-Client**
+
+![Ollama Logo](./ollama.png)
 
 ## **Overview**
 
