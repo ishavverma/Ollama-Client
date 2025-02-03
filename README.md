@@ -1,6 +1,8 @@
 # **React Native Application: Ollama-Client**
 
-![Ollama Logo](./ollama.png)
+<div style="text-align: center; background-color: white; padding: 20px; border-radius: 15px;">
+    <img src="./ollama.png" alt="Ollama Logo" style="border-radius: 15px;">
+</div>
 
 ## **Overview**
 
