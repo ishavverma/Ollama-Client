@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-The `ollama_react_native_app` is a **React Native** application designed to interact with large language models (**LLMs**) hosted on a local server. It allows users to:
+The `Ollama-Client` is a **React Native** application designed to interact with large language models (**LLMs**) hosted on a local server. It allows users to:
 
 - View available models.
 - Engage in text-based conversations with selected models.
@@ -177,4 +177,4 @@ If the setup is correct, this should return a list of available models from Olla
 ---
 
 ## **Support & Contributions**
-For further assistance or to report issues, please **contact the project maintainers** or visit the project's **GitHub repository**. 🚀
+For further assistance or to report issues, please **feel free to reach me out**. 🚀
